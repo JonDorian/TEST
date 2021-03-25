@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+  <book>
+    <title>Цветы для Элджерона</title>
+    <author>Дениел Киз</author>
+    <genre>рассказ</genre>
+    <year>1959</year>
+    <binding>твердый</binding>
+  </book>
+  <book>
+    <title>Властелин колец</title>
+    <author>Дж. Р.Р. Толкин</author>
+    <genre>фэнтези</genre>
+    <year>1954</year>
+    <binding>твердый</binding>
+  </book>
+  <book>
+    <title>1984</title>
+    <author>Джордж Оруелл</author>
+    <genre>роман</genre>
+    <year>1948</year>
+    <binding>мягкий</binding>
+  </book>
+  <book>
+    <title>Анна Каренина</title>
+    <author>Лев Толстой</author>
+    <genre>роман</genre>
+    <year>1875</year>
+    <binding>твердый</binding>
+  </book>
+  <book>
+    <title>Моби Дик</title>
+    <author>Герман Мелвилл</author>
+    <genre>роман</genre>
+    <year>1851</year>
+    <binding>мягкий</binding>
+  </book>
+</books>
